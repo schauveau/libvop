@@ -1,2 +1,2 @@
 # libvop
-A C++ library to do arithmetic on unary function 
+A C++ library to do arithmetic on unary functions
